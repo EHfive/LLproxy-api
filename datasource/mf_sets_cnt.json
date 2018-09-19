@@ -1,0 +1,3740 @@
+{
+    "count": {
+        "round_2": {
+            "attr_2": [
+                0,
+                1,
+                1,
+                7,
+                0,
+                0
+            ],
+            "attr_1": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0
+            ],
+            "attr_3": [
+                0,
+                0,
+                1,
+                9,
+                0,
+                0
+            ]
+        },
+        "round_1": {
+            "attr_2": [
+                2,
+                0,
+                1,
+                13,
+                0,
+                0
+            ],
+            "attr_1": [
+                0,
+                0,
+                3,
+                7,
+                0,
+                0
+            ],
+            "attr_3": [
+                6,
+                1,
+                0,
+                7,
+                0,
+                0
+            ]
+        },
+        "round_3": {
+            "attr_2": [
+                0,
+                0,
+                0,
+                842,
+                0,
+                0
+            ],
+            "attr_1": [
+                0,
+                0,
+                5,
+                866,
+                0,
+                0
+            ],
+            "attr_3": [
+                0,
+                0,
+                2,
+                825,
+                0,
+                0
+            ]
+        }
+    },
+    "info_list": [
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 25,
+            "set_ids": [
+                552,
+                113,
+                374
+            ],
+            "combo_cnt": 1340,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "Oh,Love＆Peace!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                432,
+                156,
+                96
+            ],
+            "combo_cnt": 1449,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "タカラモノズ",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                530,
+                164,
+                374
+            ],
+            "combo_cnt": 1495,
+            "round": 3
+        },
+        {
+            "names": [
+                "Angelic Angel",
+                "Love marginal",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                391,
+                156,
+                535
+            ],
+            "combo_cnt": 1659,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "Wonderful Rush"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 21,
+            "set_ids": [
+                456,
+                553,
+                89
+            ],
+            "combo_cnt": 1419,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "COLORFUL VOICE",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 22,
+            "set_ids": [
+                432,
+                332,
+                391
+            ],
+            "combo_cnt": 1635,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "Storm in Lover",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                89,
+                445,
+                239
+            ],
+            "combo_cnt": 1353,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "きっと青春が聞こえる",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                113,
+                98,
+                78
+            ],
+            "combo_cnt": 1372,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "小夜啼鳥恋詩"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                512,
+                89,
+                283
+            ],
+            "combo_cnt": 1360,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "タカラモノズ",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                552,
+                164,
+                78
+            ],
+            "combo_cnt": 1196,
+            "round": 3
+        },
+        {
+            "names": [
+                "LONELIEST BABY",
+                "錯覚CROSSROADS",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                221,
+                553,
+                445
+            ],
+            "combo_cnt": 1509,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "LONELIEST BABY",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                512,
+                221,
+                445
+            ],
+            "combo_cnt": 1608,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "タカラモノズ",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                113,
+                164,
+                132
+            ],
+            "combo_cnt": 1460,
+            "round": 3
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 22,
+            "set_ids": [
+                553,
+                221,
+                239
+            ],
+            "combo_cnt": 1488,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "sweet&sweet holiday",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                530,
+                132,
+                78
+            ],
+            "combo_cnt": 1314,
+            "round": 3
+        },
+        {
+            "names": [
+                "Angelic Angel",
+                "COLORFUL VOICE",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 35,
+            "set_ids": [
+                391,
+                332,
+                535
+            ],
+            "combo_cnt": 1725,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                456,
+                553,
+                239
+            ],
+            "combo_cnt": 1506,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "小夜啼鳥恋詩",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                456,
+                283,
+                239
+            ],
+            "combo_cnt": 1381,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                512,
+                89,
+                239
+            ],
+            "combo_cnt": 1458,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 8,
+            "set_ids": [
+                456,
+                221,
+                239
+            ],
+            "combo_cnt": 1521,
+            "round": 3
+        },
+        {
+            "names": [
+                "sweet&sweet holiday",
+                "タカラモノズ",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                132,
+                164,
+                78
+            ],
+            "combo_cnt": 1361,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "sweet&sweet holiday",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                113,
+                132,
+                78
+            ],
+            "combo_cnt": 1352,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "COLORFUL VOICE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                96,
+                332,
+                551
+            ],
+            "combo_cnt": 1613,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "WAO-WAO Powerful day!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                156,
+                551,
+                391
+            ],
+            "combo_cnt": 1667,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "PSYCHIC FIRE",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                96,
+                535,
+                391
+            ],
+            "combo_cnt": 1618,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "Love marginal",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                96,
+                156,
+                535
+            ],
+            "combo_cnt": 1539,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Wonderful Rush",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                456,
+                89,
+                239
+            ],
+            "combo_cnt": 1392,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Wonderful Rush",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                456,
+                89,
+                445
+            ],
+            "combo_cnt": 1413,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "夏色えがおで1,2,Jump!",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                432,
+                77,
+                551
+            ],
+            "combo_cnt": 1456,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "COLORFUL VOICE",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                156,
+                332,
+                535
+            ],
+            "combo_cnt": 1646,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Super LOVE=Super LIVE!",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                456,
+                512,
+                239
+            ],
+            "combo_cnt": 1605,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "錯覚CROSSROADS",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                512,
+                553,
+                221
+            ],
+            "combo_cnt": 1614,
+            "round": 3
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE",
+                "COLORFUL VOICE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 30,
+            "set_ids": [
+                535,
+                332,
+                551
+            ],
+            "combo_cnt": 1740,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "スピカテリブル",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                530,
+                374,
+                98
+            ],
+            "combo_cnt": 1487,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                456,
+                553,
+                221
+            ],
+            "combo_cnt": 1548,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "さようならへさよなら！",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                552,
+                530,
+                98
+            ],
+            "combo_cnt": 1249,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                512,
+                89,
+                221
+            ],
+            "combo_cnt": 1500,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                552,
+                113,
+                164
+            ],
+            "combo_cnt": 1295,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 23,
+            "set_ids": [
+                432,
+                156,
+                391
+            ],
+            "combo_cnt": 1569,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                98,
+                132,
+                374
+            ],
+            "combo_cnt": 1506,
+            "round": 3
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                553,
+                283,
+                221
+            ],
+            "combo_cnt": 1390,
+            "round": 3
+        },
+        {
+            "names": [
+                "Angelic Angel",
+                "PSYCHIC FIRE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 34,
+            "set_ids": [
+                391,
+                535,
+                551
+            ],
+            "combo_cnt": 1753,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "WAO-WAO Powerful day!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 24,
+            "set_ids": [
+                156,
+                551,
+                535
+            ],
+            "combo_cnt": 1674,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "LONELIEST BABY",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                456,
+                221,
+                445
+            ],
+            "combo_cnt": 1542,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "タカラモノズ",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                113,
+                164,
+                374
+            ],
+            "combo_cnt": 1533,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                512,
+                221,
+                239
+            ],
+            "combo_cnt": 1587,
+            "round": 3
+        },
+        {
+            "names": [
+                "タカラモノズ",
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                164,
+                132,
+                374
+            ],
+            "combo_cnt": 1514,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Storm in Lover",
+                "嵐のなかの恋だから"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 27,
+            "set_ids": [
+                512,
+                445,
+                456
+            ],
+            "combo_cnt": 1626,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "Love marginal",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                96,
+                156,
+                551
+            ],
+            "combo_cnt": 1547,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "きっと青春が聞こえる",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                552,
+                98,
+                164
+            ],
+            "combo_cnt": 1296,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Storm in Lover",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                512,
+                445,
+                239
+            ],
+            "combo_cnt": 1566,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "さようならへさよなら！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                552,
+                113,
+                530
+            ],
+            "combo_cnt": 1248,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "タカラモノズ",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                98,
+                164,
+                374
+            ],
+            "combo_cnt": 1534,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Super LOVE=Super LIVE!",
+                "小夜啼鳥恋詩"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                456,
+                512,
+                283
+            ],
+            "combo_cnt": 1507,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "スピカテリブル",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                113,
+                374,
+                78
+            ],
+            "combo_cnt": 1425,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "小夜啼鳥恋詩",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                89,
+                283,
+                445
+            ],
+            "combo_cnt": 1255,
+            "round": 3
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "Storm in Lover",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                283,
+                445,
+                239
+            ],
+            "combo_cnt": 1342,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "錯覚CROSSROADS",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                89,
+                553,
+                221
+            ],
+            "combo_cnt": 1401,
+            "round": 3
+        },
+        {
+            "names": [
+                "Angelic Angel",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                391,
+                77,
+                535
+            ],
+            "combo_cnt": 1531,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "COLORFUL VOICE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                432,
+                332,
+                551
+            ],
+            "combo_cnt": 1650,
+            "round": 3
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "小夜啼鳥恋詩",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                553,
+                283,
+                239
+            ],
+            "combo_cnt": 1348,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "きっと青春が聞こえる",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                113,
+                98,
+                132
+            ],
+            "combo_cnt": 1452,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                552,
+                113,
+                98
+            ],
+            "combo_cnt": 1287,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "Love marginal",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 23,
+            "set_ids": [
+                96,
+                156,
+                391
+            ],
+            "combo_cnt": 1532,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "小夜啼鳥恋詩",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                456,
+                283,
+                445
+            ],
+            "combo_cnt": 1402,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "夏色えがおで1,2,Jump!",
+                "COLORFUL VOICE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                156,
+                77,
+                332
+            ],
+            "combo_cnt": 1432,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "タカラモノズ",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                98,
+                164,
+                132
+            ],
+            "combo_cnt": 1461,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                96,
+                77,
+                535
+            ],
+            "combo_cnt": 1411,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "PSYCHIC FIRE",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                432,
+                535,
+                391
+            ],
+            "combo_cnt": 1655,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "きっと青春が聞こえる",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                113,
+                98,
+                374
+            ],
+            "combo_cnt": 1525,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "sweet&sweet holiday",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                552,
+                132,
+                78
+            ],
+            "combo_cnt": 1168,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "さようならへさよなら！",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                552,
+                530,
+                374
+            ],
+            "combo_cnt": 1302,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "小夜啼鳥恋詩",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 7,
+            "set_ids": [
+                89,
+                283,
+                239
+            ],
+            "combo_cnt": 1234,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "夏色えがおで1,2,Jump!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 17,
+            "set_ids": [
+                156,
+                77,
+                391
+            ],
+            "combo_cnt": 1445,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                512,
+                283,
+                221
+            ],
+            "combo_cnt": 1489,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                552,
+                132,
+                374
+            ],
+            "combo_cnt": 1321,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Angelic Angel",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                432,
+                391,
+                551
+            ],
+            "combo_cnt": 1663,
+            "round": 3
+        },
+        {
+            "names": [
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 3,
+            "set_ids": [
+                374
+            ],
+            "combo_cnt": 544,
+            "round": 1
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "sweet&sweet holiday",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 24,
+            "set_ids": [
+                530,
+                132,
+                98
+            ],
+            "combo_cnt": 1414,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                96,
+                332,
+                77
+            ],
+            "combo_cnt": 1391,
+            "round": 3
+        },
+        {
+            "names": [
+                "WAO-WAO Powerful day!",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                551,
+                77,
+                535
+            ],
+            "combo_cnt": 1546,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "もぎゅっと“love”で接近中！",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                552,
+                78,
+                374
+            ],
+            "combo_cnt": 1241,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "夏色えがおで1,2,Jump!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                432,
+                77,
+                391
+            ],
+            "combo_cnt": 1441,
+            "round": 3
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 21,
+            "set_ids": [
+                283,
+                221,
+                445
+            ],
+            "combo_cnt": 1384,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                456,
+                283,
+                221
+            ],
+            "combo_cnt": 1423,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "僕たちはひとつの光",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                96,
+                432,
+                391
+            ],
+            "combo_cnt": 1528,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                456,
+                553,
+                445
+            ],
+            "combo_cnt": 1527,
+            "round": 3
+        },
+        {
+            "names": [
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                332,
+                77,
+                535
+            ],
+            "combo_cnt": 1518,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "Love marginal",
+                "COLORFUL VOICE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                96,
+                156,
+                332
+            ],
+            "combo_cnt": 1519,
+            "round": 3
+        },
+        {
+            "names": [
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                332,
+                77,
+                551
+            ],
+            "combo_cnt": 1526,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "小夜啼鳥恋詩",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                512,
+                283,
+                445
+            ],
+            "combo_cnt": 1468,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                530
+            ],
+            "combo_cnt": 452,
+            "round": 1
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                456
+            ],
+            "combo_cnt": 533,
+            "round": 1
+        },
+        {
+            "names": [
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                15
+            ],
+            "combo_cnt": 225,
+            "round": 1
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "小夜啼鳥恋詩"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                456,
+                553,
+                283
+            ],
+            "combo_cnt": 1408,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "Love marginal",
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                96,
+                156,
+                77
+            ],
+            "combo_cnt": 1325,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "sweet&sweet holiday",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                552,
+                132,
+                164
+            ],
+            "combo_cnt": 1276,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                552,
+                113,
+                132
+            ],
+            "combo_cnt": 1267,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "タカラモノズ",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                98,
+                164,
+                78
+            ],
+            "combo_cnt": 1381,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 23,
+            "set_ids": [
+                512,
+                89,
+                553
+            ],
+            "combo_cnt": 1485,
+            "round": 3
+        },
+        {
+            "names": [
+                "sweet&sweet holiday",
+                "さようならへさよなら！",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                132,
+                530,
+                164
+            ],
+            "combo_cnt": 1422,
+            "round": 3
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 8,
+            "set_ids": [
+                283,
+                221,
+                239
+            ],
+            "combo_cnt": 1363,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "WAO-WAO Powerful day!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                96,
+                551,
+                535
+            ],
+            "combo_cnt": 1633,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "さようならへさよなら！",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                552,
+                530,
+                164
+            ],
+            "combo_cnt": 1257,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "COLORFUL VOICE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                432,
+                156,
+                332
+            ],
+            "combo_cnt": 1556,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "錯覚CROSSROADS",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                89,
+                553,
+                239
+            ],
+            "combo_cnt": 1359,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "夏色えがおで1,2,Jump!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                96,
+                77,
+                391
+            ],
+            "combo_cnt": 1404,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "Wonder zone",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                552,
+                113,
+                78
+            ],
+            "combo_cnt": 1187,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 7,
+            "set_ids": [
+                432,
+                156,
+                535
+            ],
+            "combo_cnt": 1576,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "さようならへさよなら！",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 9,
+            "set_ids": [
+                552,
+                530,
+                78
+            ],
+            "combo_cnt": 1149,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "PSYCHIC FIRE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 8,
+            "set_ids": [
+                432,
+                535,
+                551
+            ],
+            "combo_cnt": 1670,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "さようならへさよなら！",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                113,
+                530,
+                132
+            ],
+            "combo_cnt": 1413,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "もぎゅっと“love”で接近中！",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                530,
+                78,
+                98
+            ],
+            "combo_cnt": 1334,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Oh,Love＆Peace!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                432,
+                96,
+                535
+            ],
+            "combo_cnt": 1535,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "COLORFUL VOICE",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                156,
+                332,
+                391
+            ],
+            "combo_cnt": 1639,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "さようならへさよなら！",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 21,
+            "set_ids": [
+                552,
+                530,
+                132
+            ],
+            "combo_cnt": 1229,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                512,
+                89,
+                445
+            ],
+            "combo_cnt": 1479,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "さようならへさよなら！",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                113,
+                530,
+                98
+            ],
+            "combo_cnt": 1433,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Wonderful Rush",
+                "小夜啼鳥恋詩"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                456,
+                89,
+                283
+            ],
+            "combo_cnt": 1294,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "さようならへさよなら！",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                113,
+                530,
+                374
+            ],
+            "combo_cnt": 1486,
+            "round": 3
+        },
+        {
+            "names": [
+                "もぎゅっと“love”で接近中！",
+                "タカラモノズ",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                78,
+                164,
+                374
+            ],
+            "combo_cnt": 1434,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "さようならへさよなら！",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                113,
+                530,
+                78
+            ],
+            "combo_cnt": 1333,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "錯覚CROSSROADS",
+                "小夜啼鳥恋詩"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                512,
+                553,
+                283
+            ],
+            "combo_cnt": 1474,
+            "round": 3
+        },
+        {
+            "names": [
+                "COLORFUL VOICE",
+                "WAO-WAO Powerful day!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 40,
+            "set_ids": [
+                332,
+                551,
+                391
+            ],
+            "combo_cnt": 1733,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "小夜啼鳥恋詩",
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                89,
+                283,
+                553
+            ],
+            "combo_cnt": 1261,
+            "round": 3
+        },
+        {
+            "names": [
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                332,
+                77,
+                391
+            ],
+            "combo_cnt": 1511,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "タカラモノズ",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                530,
+                164,
+                78
+            ],
+            "combo_cnt": 1342,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "錯覚CROSSROADS",
+                "Super LOVE=Super LIVE!"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 19,
+            "set_ids": [
+                456,
+                553,
+                512
+            ],
+            "combo_cnt": 1632,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "COLORFUL VOICE",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                96,
+                332,
+                391
+            ],
+            "combo_cnt": 1598,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                530,
+                164
+            ],
+            "combo_cnt": 951,
+            "round": 2
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "さようならへさよなら！",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 22,
+            "set_ids": [
+                113,
+                530,
+                164
+            ],
+            "combo_cnt": 1441,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 9,
+            "set_ids": [
+                432,
+                332,
+                77
+            ],
+            "combo_cnt": 1428,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "きっと青春が聞こえる",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 15,
+            "set_ids": [
+                552,
+                98,
+                78
+            ],
+            "combo_cnt": 1188,
+            "round": 3
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE",
+                "COLORFUL VOICE",
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                505,
+                275,
+                15
+            ],
+            "combo_cnt": 1035,
+            "round": 3
+        },
+        {
+            "names": [
+                "スピカテリブル",
+                "もぎゅっと“love”で接近中！",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                374,
+                78,
+                98
+            ],
+            "combo_cnt": 1426,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                89,
+                283,
+                221
+            ],
+            "combo_cnt": 1276,
+            "round": 3
+        },
+        {
+            "names": [
+                "LONELIEST BABY",
+                "Wonderful Rush",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                221,
+                89,
+                445
+            ],
+            "combo_cnt": 1395,
+            "round": 3
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                530,
+                132,
+                374
+            ],
+            "combo_cnt": 1467,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "COLORFUL VOICE",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                156,
+                332,
+                551
+            ],
+            "combo_cnt": 1654,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "錯覚CROSSROADS",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                89,
+                553,
+                445
+            ],
+            "combo_cnt": 1380,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                89,
+                221,
+                239
+            ],
+            "combo_cnt": 1374,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                113,
+                132,
+                374
+            ],
+            "combo_cnt": 1505,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "WAO-WAO Powerful day!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                96,
+                551,
+                391
+            ],
+            "combo_cnt": 1626,
+            "round": 3
+        },
+        {
+            "names": [
+                "夏色えがおで1,2,Jump!",
+                "WAO-WAO Powerful day!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                77,
+                551,
+                391
+            ],
+            "combo_cnt": 1539,
+            "round": 3
+        },
+        {
+            "names": [
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 1,
+            "times": 1,
+            "set_ids": [
+                129
+            ],
+            "combo_cnt": 142,
+            "round": 1
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "夏色えがおで1,2,Jump!",
+                "僕たちはひとつの光"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 9,
+            "set_ids": [
+                96,
+                77,
+                432
+            ],
+            "combo_cnt": 1321,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "錯覚CROSSROADS",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 9,
+            "set_ids": [
+                512,
+                553,
+                239
+            ],
+            "combo_cnt": 1572,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "きっと青春が聞こえる",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                113,
+                98,
+                164
+            ],
+            "combo_cnt": 1480,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "僕たちはひとつの光",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 8,
+            "set_ids": [
+                96,
+                432,
+                551
+            ],
+            "combo_cnt": 1543,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "きっと青春が聞こえる",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                552,
+                98,
+                374
+            ],
+            "combo_cnt": 1341,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                113,
+                132
+            ],
+            "combo_cnt": 961,
+            "round": 2
+        },
+        {
+            "names": [
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 3,
+            "set_ids": [
+                77
+            ],
+            "combo_cnt": 370,
+            "round": 1
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "錯覚CROSSROADS",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                512,
+                553,
+                445
+            ],
+            "combo_cnt": 1593,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "小夜啼鳥恋詩",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                512,
+                283,
+                239
+            ],
+            "combo_cnt": 1447,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "タカラモノズ",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 18,
+            "set_ids": [
+                552,
+                164,
+                374
+            ],
+            "combo_cnt": 1349,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "LONELIEST BABY",
+                "嵐のなかの恋だから"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                512,
+                221,
+                456
+            ],
+            "combo_cnt": 1647,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "夏色えがおで1,2,Jump!",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                96,
+                77,
+                551
+            ],
+            "combo_cnt": 1419,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Storm in Lover",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                456,
+                445,
+                239
+            ],
+            "combo_cnt": 1500,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 16,
+            "set_ids": [
+                432,
+                156,
+                551
+            ],
+            "combo_cnt": 1584,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal",
+                "夏色えがおで1,2,Jump!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 7,
+            "set_ids": [
+                432,
+                156,
+                77
+            ],
+            "combo_cnt": 1362,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "きっと青春が聞こえる",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                552,
+                98,
+                132
+            ],
+            "combo_cnt": 1268,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "夏色えがおで1,2,Jump!",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                156,
+                77,
+                551
+            ],
+            "combo_cnt": 1460,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                456,
+                239
+            ],
+            "combo_cnt": 1006,
+            "round": 2
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "COLORFUL VOICE",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                432,
+                332,
+                535
+            ],
+            "combo_cnt": 1642,
+            "round": 3
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "Love marginal"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                432,
+                156
+            ],
+            "combo_cnt": 992,
+            "round": 2
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                432,
+                77,
+                535
+            ],
+            "combo_cnt": 1448,
+            "round": 3
+        },
+        {
+            "names": [
+                "Love marginal",
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                156,
+                77,
+                535
+            ],
+            "combo_cnt": 1452,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "さようならへさよなら！",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 11,
+            "set_ids": [
+                98,
+                530,
+                164
+            ],
+            "combo_cnt": 1442,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて",
+                "きっと青春が聞こえる"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                552,
+                98
+            ],
+            "combo_cnt": 797,
+            "round": 2
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "sweet&sweet holiday",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                98,
+                132,
+                78
+            ],
+            "combo_cnt": 1353,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "COLORFUL VOICE",
+                "僕たちはひとつの光"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                96,
+                332,
+                432
+            ],
+            "combo_cnt": 1515,
+            "round": 3
+        },
+        {
+            "names": [
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                78
+            ],
+            "combo_cnt": 391,
+            "round": 1
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                553,
+                239
+            ],
+            "combo_cnt": 973,
+            "round": 2
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "スピカテリブル",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 14,
+            "set_ids": [
+                530,
+                374,
+                78
+            ],
+            "combo_cnt": 1387,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "タカラモノズ",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 12,
+            "set_ids": [
+                113,
+                164,
+                78
+            ],
+            "combo_cnt": 1380,
+            "round": 3
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "Storm in Lover",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                553,
+                445,
+                239
+            ],
+            "combo_cnt": 1467,
+            "round": 3
+        },
+        {
+            "names": [
+                "思い出以上になりたくて"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                552
+            ],
+            "combo_cnt": 306,
+            "round": 1
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                283,
+                221
+            ],
+            "combo_cnt": 890,
+            "round": 2
+        },
+        {
+            "names": [
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 5,
+            "set_ids": [
+                132
+            ],
+            "combo_cnt": 471,
+            "round": 1
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                505
+            ],
+            "combo_cnt": 428,
+            "round": 1
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "COLORFUL VOICE",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                96,
+                332,
+                535
+            ],
+            "combo_cnt": 1605,
+            "round": 3
+        },
+        {
+            "names": [
+                "Storm in Lover",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 9,
+            "set_ids": [
+                445,
+                221,
+                239
+            ],
+            "combo_cnt": 1482,
+            "round": 3
+        },
+        {
+            "names": [
+                "スピカテリブル",
+                "sweet&sweet holiday",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 10,
+            "set_ids": [
+                374,
+                132,
+                78
+            ],
+            "combo_cnt": 1406,
+            "round": 3
+        },
+        {
+            "names": [
+                "嵐のなかの恋だから",
+                "Wonderful Rush",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 13,
+            "set_ids": [
+                456,
+                89,
+                221
+            ],
+            "combo_cnt": 1434,
+            "round": 3
+        },
+        {
+            "names": [
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 1,
+            "times": 2,
+            "set_ids": [
+                161
+            ],
+            "combo_cnt": 142,
+            "round": 1
+        },
+        {
+            "names": [
+                "さようならへさよなら！"
+            ],
+            "attribute": 2,
+            "difficulty": 1,
+            "times": 1,
+            "set_ids": [
+                457
+            ],
+            "combo_cnt": 95,
+            "round": 1
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 1,
+            "times": 1,
+            "set_ids": [
+                436
+            ],
+            "combo_cnt": 85,
+            "round": 1
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!"
+            ],
+            "attribute": 3,
+            "difficulty": 1,
+            "times": 1,
+            "set_ids": [
+                439
+            ],
+            "combo_cnt": 125,
+            "round": 1
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                553
+            ],
+            "combo_cnt": 500,
+            "round": 1
+        },
+        {
+            "names": [
+                "Wonderful Rush"
+            ],
+            "attribute": 3,
+            "difficulty": 1,
+            "times": 2,
+            "set_ids": [
+                25
+            ],
+            "combo_cnt": 111,
+            "round": 1
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                512,
+                553
+            ],
+            "combo_cnt": 1099,
+            "round": 2
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "嵐のなかの恋だから"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 20,
+            "set_ids": [
+                512,
+                89,
+                456
+            ],
+            "combo_cnt": 1518,
+            "round": 3
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                98,
+                164
+            ],
+            "combo_cnt": 990,
+            "round": 2
+        },
+        {
+            "names": [
+                "さようならへさよなら！",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                530,
+                132
+            ],
+            "combo_cnt": 923,
+            "round": 2
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                89,
+                445
+            ],
+            "combo_cnt": 880,
+            "round": 2
+        },
+        {
+            "names": [
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                551
+            ],
+            "combo_cnt": 592,
+            "round": 1
+        },
+        {
+            "names": [
+                "錯覚CROSSROADS",
+                "小夜啼鳥恋詩",
+                "Storm in Lover"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 8,
+            "set_ids": [
+                553,
+                283,
+                445
+            ],
+            "combo_cnt": 1369,
+            "round": 3
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                96
+            ],
+            "combo_cnt": 457,
+            "round": 1
+        },
+        {
+            "names": [
+                "Love marginal",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                156,
+                535
+            ],
+            "combo_cnt": 1082,
+            "round": 2
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                535
+            ],
+            "combo_cnt": 584,
+            "round": 1
+        },
+        {
+            "names": [
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                36
+            ],
+            "combo_cnt": 265,
+            "round": 1
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                89,
+                239
+            ],
+            "combo_cnt": 859,
+            "round": 2
+        },
+        {
+            "names": [
+                "sweet&sweet holiday",
+                "スピカテリブル"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                132,
+                374
+            ],
+            "combo_cnt": 1015,
+            "round": 2
+        },
+        {
+            "names": [
+                "夏色えがおで1,2,Jump!",
+                "PSYCHIC FIRE"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                77,
+                535
+            ],
+            "combo_cnt": 954,
+            "round": 2
+        },
+        {
+            "names": [
+                "タカラモノズ"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                164
+            ],
+            "combo_cnt": 499,
+            "round": 1
+        },
+        {
+            "names": [
+                "Wonderful Rush"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 2,
+            "set_ids": [
+                89
+            ],
+            "combo_cnt": 386,
+            "round": 1
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "LONELIEST BABY",
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                282,
+                163,
+                238
+            ],
+            "combo_cnt": 1030,
+            "round": 3
+        },
+        {
+            "names": [
+                "Wonder zone",
+                "もぎゅっと“love”で接近中！"
+            ],
+            "attribute": 2,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                82,
+                21
+            ],
+            "combo_cnt": 524,
+            "round": 2
+        },
+        {
+            "names": [
+                "Wonderful Rush",
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                89,
+                553
+            ],
+            "combo_cnt": 886,
+            "round": 2
+        },
+        {
+            "names": [
+                "Love marginal",
+                "WAO-WAO Powerful day!",
+                "COLORFUL VOICE"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                33,
+                401,
+                275
+            ],
+            "combo_cnt": 1116,
+            "round": 3
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE",
+                "COLORFUL VOICE",
+                "僕たちはひとつの光"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                505,
+                275,
+                373
+            ],
+            "combo_cnt": 1185,
+            "round": 3
+        },
+        {
+            "names": [
+                "小夜啼鳥恋詩",
+                "錯覚CROSSROADS"
+            ],
+            "attribute": 3,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                282,
+                438
+            ],
+            "combo_cnt": 571,
+            "round": 2
+        },
+        {
+            "names": [
+                "きっと青春が聞こえる",
+                "sweet&sweet holiday"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                98,
+                132
+            ],
+            "combo_cnt": 962,
+            "round": 2
+        },
+        {
+            "names": [
+                "僕たちはひとつの光",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                432,
+                551
+            ],
+            "combo_cnt": 1086,
+            "round": 2
+        },
+        {
+            "names": [
+                "Love marginal",
+                "WAO-WAO Powerful day!",
+                "Angelic Angel"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                33,
+                401,
+                343
+            ],
+            "combo_cnt": 1096,
+            "round": 3
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!"
+            ],
+            "attribute": 3,
+            "difficulty": 2,
+            "times": 1,
+            "set_ids": [
+                440
+            ],
+            "combo_cnt": 249,
+            "round": 1
+        },
+        {
+            "names": [
+                "PSYCHIC FIRE",
+                "WAO-WAO Powerful day!",
+                "Oh,Love＆Peace!"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                505,
+                401,
+                30
+            ],
+            "combo_cnt": 1134,
+            "round": 3
+        },
+        {
+            "names": [
+                "もぎゅっと“love”で接近中！",
+                "思い出以上になりたくて"
+            ],
+            "attribute": 2,
+            "difficulty": 2,
+            "times": 1,
+            "set_ids": [
+                20,
+                413
+            ],
+            "combo_cnt": 249,
+            "round": 2
+        },
+        {
+            "names": [
+                "勇気のReason"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                239
+            ],
+            "combo_cnt": 473,
+            "round": 1
+        },
+        {
+            "names": [
+                "Super LOVE=Super LIVE!",
+                "Wonderful Rush",
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                441,
+                27,
+                163
+            ],
+            "combo_cnt": 1036,
+            "round": 3
+        },
+        {
+            "names": [
+                "LONELIEST BABY"
+            ],
+            "attribute": 3,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                221
+            ],
+            "combo_cnt": 515,
+            "round": 1
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!",
+                "WAO-WAO Powerful day!"
+            ],
+            "attribute": 1,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                96,
+                551
+            ],
+            "combo_cnt": 1049,
+            "round": 2
+        },
+        {
+            "names": [
+                "Wonder zone"
+            ],
+            "attribute": 2,
+            "difficulty": 4,
+            "times": 1,
+            "set_ids": [
+                113
+            ],
+            "combo_cnt": 490,
+            "round": 1
+        },
+        {
+            "names": [
+                "Oh,Love＆Peace!"
+            ],
+            "attribute": 1,
+            "difficulty": 3,
+            "times": 1,
+            "set_ids": [
+                30
+            ],
+            "combo_cnt": 255,
+            "round": 1
+        }
+    ]
+}

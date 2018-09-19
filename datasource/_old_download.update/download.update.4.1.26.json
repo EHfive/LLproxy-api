@@ -1,0 +1,29 @@
+{
+	"response_data": [{
+		"size": "3902020",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/e55e8be6180670d0c5fbaf6cafa33f0f.1499332646",
+		"version": "4.1.26\n"
+	}, {
+		"size": "2905264",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/dcaac4d168dd694917476fa196ebb524.1499332646",
+		"version": "4.1.26\n"
+	}, {
+		"size": "3276988",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/9e293fe4c1c68ab7c91e8464b1868186.1499332646",
+		"version": "4.1.26\n"
+	}, {
+		"size": "1456",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/9ede6d8bfd10bcf43d9944679e043031.1499332646",
+		"version": "4.1.26\n"
+	}, {
+		"size": "1172",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/4fbe7f71f5f3d4760ec8ba2edaa6db82.1499332646",
+		"version": "4.1.26\n"
+	}, {
+		"size": "391",
+		"url": "http:\/\/ll.webpatch.sdg-china.com\/ll\/prod\/update\/4.1.26\/iphone\/002050fbae6b3e10b2d9d67c9cc4ac57.1499332646",
+		"version": "4.1.26\n"
+	}],
+	"release_info": [],
+	"status_code": 200
+}

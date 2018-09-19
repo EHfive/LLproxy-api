@@ -1,0 +1,18 @@
+{
+                "name": "server_information",
+                "domain":"http://prod.game1.ll.sdo.com",
+                "maintenance_uri": "http://prod.game1.ll.sdo.com/resources/maintenace/maintenance.php",
+                "login_news_uri": "http://prod.game1.ll.sdo.com/webview.php/announce/index?0=",
+                "locked_user_uri": "http://prod.game1.ll.sdo.com/webview.php/static/index?id=13",
+                "server_version": "4.1.31",
+                "end_point": "/main.php",
+                "consumer_key": "lovelive_test",
+                "application_id": "00000001",
+                "max_connection": 10,
+                "region": "392",
+                "date": "1499930093",
+                "api_uri": {
+                    "/battle/startWait": "http://prod.game1.ll.sdo.com/main.php/battle/startWait",
+                    "/battle/endWait": "http://prod.game1.ll.sdo.com/main.php/battle/endWait"
+                }
+            }
